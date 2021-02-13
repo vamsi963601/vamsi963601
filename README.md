@@ -1,4 +1,4 @@
-### Learning 𝐒𝐄𝐂𝐔𝐑𝐄 Coding 🔐| Full Stack Web Developer 👨‍💻| CyberSec Enthusiast 🐱‍💻
+### Learning 𝐒𝐄𝐂𝐔𝐑𝐄 🔐 Coding | Full Stack Web Developer 👨‍💻| CyberSec Enthusiast 🐱‍💻
 - 🌱 I’m currently learning React JS <img src="https://3ulsmb4eg8vz37c0vz2si64j-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/react-native-UX-design.gif" alt="logo" width="30px" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsi963601&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
