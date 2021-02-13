@@ -1,7 +1,7 @@
 ### Learning 𝐒𝐄𝐂𝐔𝐑𝐄 Coding 🔐| Full Stack Web Developer 👨‍💻| CyberSec Enthusiast 🐱‍💻
 - 🌱 I’m currently learning React JS <img src="https://3ulsmb4eg8vz37c0vz2si64j-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/react-native-UX-design.gif" alt="logo" width="30px" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsi963601)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsi963601&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vamsi963601/vamsi963601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
